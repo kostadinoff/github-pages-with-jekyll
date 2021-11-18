@@ -1,5 +1,4 @@
 ---
-title: "Добре дошли в моя блог"
+title: "Д-р Костадин Костадинов"
 ---
 
-I'm glad you are here. I plan to talk about ...
