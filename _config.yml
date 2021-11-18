@@ -1,12 +1,13 @@
-title: Д-р Костадин Костадинов
+title: Личен блог
 author: GitHub User
 email: drkostadinkostadinov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Описание
+  Асистент катедра "Социална медицина и обществено здраве" МУ-Пловдив. 
+  Лекар, магистър "Здравен мениджмънт и обществено здраве"
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: kostadinoffMD
+github_username:  kostadinoff
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
